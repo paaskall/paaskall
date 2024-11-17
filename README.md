@@ -3,12 +3,11 @@
 <!--
 **paaskall/paaskall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently student of Ujung Pandang State Polytechnic
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: @paskalll_
--->
+🔭 I’m currently student of Ujung Pandang State Polytechnic
+🌱 I’m currently learning Kotlin
+📫 How to reach me: @paskalll_
 
 
 # 💻 Tech Stack:
