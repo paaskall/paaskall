@@ -6,7 +6,6 @@
 Here are some ideas to get you started: -->
 
 🔭 I’m currently student of Ujung Pandang State Polytechnic <br>
-🌱 I’m currently learning Kotlin <br>
 📫 How to reach me: @paskalll_
 
 
